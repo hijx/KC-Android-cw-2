@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    int x = 170;
+	    
+	    if (x>160){
+		System.out.println("come on in kid");
+    	}else{
+    	System.out.println("sorry kid");
+        }
+
+    }
+}
