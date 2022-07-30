@@ -3,8 +3,9 @@ public class Main
 	public static void main(String[] args) {
 
         String name = "maria";
-        Integer age = 17;
+        int age = 17;
 
-
+        System.out.println("my name is " + name + " my age is " + age );
+        
 	}
 }
